@@ -1,0 +1,16 @@
+I created this project in Early January, 2025 while working as a Shift Manager at my local movie theater over holiday break.
+
+For context, my local movie theater is a small chain. Meaning we do not have a corporate office to handle overhead customer issues. 
+Thus, whenever a customer has an issue, they are directed to email our theater, which goes straight to the managers, who must answer each issue in a timely manner.
+
+The issue with this system is that if we receive a large amount of customer issues (such as our ticket-website going down), it is difficult to keep track of which manager is responding to a certain issue.
+
+Therefore, I created a pipeline from our Outlook Email to an Excel Sheet. Using Power Automate (A free Office365 feature), my system would detect if a new email issue was delivered to our inbox.
+From there, it would convert the email into an HTML text file, and ingest that information into our excel sheet automatically, even if the computer was off or the excel sheet wasn't open.
+
+After that, a manager can see the new issue in the excel sheet, mark that they are responding to it, add any notes on the issue, and change its status.
+
+I also took the liberty to create a quick dashboard on the excel sheet that would show how many new issues there were, who is responding to them, and which issue reasons are most prevalent.
+
+This system has extremely improved our management team's efficiency in handling customer issues and increase our capacity to handle "high-ticket" incidents (i.e. website going down, or multi-charges).
+  
