@@ -1,3 +1,6 @@
 [submodule "roommateMatching"]
 	path = roommateMatching
 	url = https://github.com/ChrisxCross2003/roommateMatching/
+[submodule "Course-Review-App"]
+	path = Course-Review-App
+	url = https://github.com/ChrisxCross2003/Course-Review-App.git
