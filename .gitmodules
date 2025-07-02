@@ -4,3 +4,6 @@
 [submodule "Course-Review-App"]
 	path = Course-Review-App
 	url = https://github.com/ChrisxCross2003/Course-Review-App.git
+[submodule "Wordle"]
+	path = Wordle
+	url = https://github.com/ChrisxCross2003/Wordle.git
